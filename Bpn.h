@@ -4,3 +4,4 @@ extern int GetNetMove(int *board);
 extern int InitNet(char *weights);
 extern void KillNet(void);
 #endif
+//dopisuje
